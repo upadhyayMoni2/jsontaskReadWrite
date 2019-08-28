@@ -1,0 +1,22 @@
+{
+    "id": "1234 - Zaier",
+    "yeat_hired": 1999,
+    "averageMonths": 29.46,
+    "totalEmployee": 335,
+    "depArr": [{
+            "departments": "201 - IT",
+            "current": "IS CURRENT"
+        }, {
+            "departments": "423 - Finance",
+            "current": "IS NOT CURRENT"
+        }, {
+            "departments": "422 - Administration",
+            "current": "IS CURRENT"
+        }, {
+            "departments": "421 - Design",
+            "current": "IS NOT CURRENT"
+        }, {
+            "departments": "420 - PROGRAMS Management",
+            "current": "IS CURRENT"
+        }]
+}
